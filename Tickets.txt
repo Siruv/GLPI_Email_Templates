@@ -48,7 +48,7 @@
 
  [##followup.date##] ##lang.followup.isprivate## : ##followup.isprivate##
  ##lang.followup.author## ##followup.author##
- ##lang.followup.description## ##IFfollowup.isprivate=Não## ##followup.description## ##ENDIFfollowup.isprivate## ##ELSEfollowup.isprivate## Esta mensagem é privada, confidencial e dirigida exclusivamente ao seu destinatário. ##ENDELSEfollowup.isprivate##
+ ##lang.followup.description## ##IFfollowup.isprivate=Non## ##followup.description## ##ENDIFfollowup.isprivate## ##ELSEfollowup.isprivate## Ce message est privé, confidentiel et adressé exclusivement à son destinataire. ##ENDELSEfollowup.isprivate##
  ##lang.followup.date## ##followup.date##
  ##lang.followup.requesttype## ##followup.requesttype##
 
